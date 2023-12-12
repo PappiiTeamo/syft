@@ -15,7 +15,7 @@ require (
 	github.com/facebookincubator/nvdtools v0.1.5
 	github.com/go-test/deep v1.1.0
 	github.com/google/go-cmp v0.5.9
-	github.com/google/uuid v1.3.0
+	github.com/google/uuid v1.5.0
 	github.com/gookit/color v1.5.3
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/jinzhu/copier v0.3.5
